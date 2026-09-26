@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Local configuration
+*.local
+*.ini
+
+# FFmpeg binaries
+bin/ffmpeg.exe
+bin/ffprobe.exe
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
