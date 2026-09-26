@@ -1,3 +1,4 @@
+![FFxtractor GUI](screenshots/FFXtractor_GUI.jpg)
 # FFxtractor
 
 FFxtractor is a lightweight PyQt5 GUI for inspecting, selecting, copying, converting, and discarding streams in media containers through FFmpeg and FFprobe.
